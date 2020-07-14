@@ -1,0 +1,25 @@
+title:             천천히 재밌게
+email:             jrcho2012@gmail.com
+description:       이것 저것 관심사
+author:            Jeong-Rae CHO
+baseurl:           ""
+url:               "https://jrcho.github.io"
+
+# Social Profiles
+twitter_username:  withFreeWill
+github_username:   jrcho
+facebook_username:
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+kramdown:
+  math_engine:       mathjax
+#  math_engine_opts:
+#    preview:         true
+#    preview_as_code: true
