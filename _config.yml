@@ -1,14 +1,14 @@
-title:             천천히 재밌게
-email:             jrcho2012@gmail.com
-description:       이것 저것 관심사
-author:            Jeong-Rae CHO
+title:             O:CONNECT
+email:             oconnect@gmail.com
+description:       Connect the World
+author:            Kyuhwan Shim
 baseurl:           ""
-url:               "https://jrcho.github.io"
+url:               "https://oconnectx.github.io"
 
 # Social Profiles
-twitter_username:  withFreeWill
-github_username:   jrcho
-facebook_username:
+
+instagram_username:    
+facebook_username:  OConnect-100615271652569
 
 # Build settings
 markdown:          kramdown
